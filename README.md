@@ -1,5 +1,7 @@
 # Homebase
 
+---
+
 ## Phases
 
 Current phase: exploration
