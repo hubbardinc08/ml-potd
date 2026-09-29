@@ -4,8 +4,8 @@
 
 **Link:** [https://arxiv.org/abs/2212.06817](https://arxiv.org/abs/2212.06817)
 
-### TL;DR: 
-
+### TL;DR:   
+Before this paper, end-to-end robotic learning typically involved training on specially curated task-specific data, which is similar to supervised learning in other fields. However, 
 
 ### Problem: 
 
