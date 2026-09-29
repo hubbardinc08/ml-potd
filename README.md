@@ -1,16 +1,5 @@
 # Homebase
 
-```mermaid
-flowchart TD
-    A["Read 1 - Skim over Abstract, Introduction, Conclusion, and References"] --> B["Read 2 - Look at the figures and equations more carefully"]
-    B --> C["Read 3 - Understand why the researchers implemented things the way they did, and derive their formulas and results"]
-    C --> D["Note down findings"]
-    D --> E["⭐ Rate"]
-    E -.->|every 5th| F["🔁 Recall quiz"]
-```
-
----
-
 ## Phases
 
 Current phase: exploration
