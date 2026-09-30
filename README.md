@@ -18,15 +18,16 @@ Every 5th paper is a mixed recall quiz covering all earlier papers in the progre
 
 ## Paper Log
 
-| Date      | Paper                                                            | Field                                |  Rating  | Note                                                                 |  
-| --------- | ---------------------------------------------------------------- | ------------------------------------ | :------: | -------------------------------------------------------------------- |  
-| 9/15/2026 | Attention is All You Need                                        | #nlp #transformer                    |   ⭐⭐⭐⭐   | [Attention Is All You Need](notes/attention-is-all-you-need.md)                                        |  
-| 9/16/2026 | Deep Residual Learning for Image Recognition                     | #cv #resnet #deep-learning           |   ⭐⭐⭐⭐   | [Deep Residual Learning for Image Recognition](notes/deep-residual-learning-for-image-recognition.md)                     |  
-| 9/21/2026 | Playing Atari with Deep Reinforcement Learning                   | #rl #dqn #deep-learning              |    ⭐⭐    | [Playing Atari with Deep Reinforcement Learning](notes/playing-atari-with-deep-reinforcement-learning.md)                   |  
-| 9/22/2026 | Generative Adversarial Networks                                  | #generative #gan #deep-learning      |  ⭐️⭐️⭐️  | [Generative Adversarial Networks](notes/generative-adversarial-networks.md)                                  |  
-| 9/23/2026 | SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS | #graph-ml #gcn #deep-learning        | ⭐️⭐️⭐️⭐️ | [SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS](notes/semi-supervised-classification-with-graph-convolutional-networks.md) |  
-| 9/24/2026 | Adam: A Method for Stochastic Optimization                       | #optimization #theory #deep-learning |   ⭐️⭐️   | [Adam - A Method for Stochastic Optimization](notes/adam-a-method-for-stochastic-optimization.md)                      |  
-| 9/27/2026 | RT-1: Robotics Transformer for Real-World Control at Scale       | #robotics #transformer #embodied-ai  |          | [RT-1 Robotics Transformer for Real-World Control at Scale](notes/rt-1-robotics-transformer-for-real-world-control-at-scale.md)        |
+| Date      | Paper                                                            | Field                                 |  Rating  | Note                                                                 |  
+| --------- | ---------------------------------------------------------------- | ------------------------------------- | :------: | -------------------------------------------------------------------- |  
+| 9/15/2026 | Attention is All You Need                                        | #nlp #transformer                     |   ⭐⭐⭐⭐   | [Attention Is All You Need](notes/attention-is-all-you-need.md)                                        |  
+| 9/16/2026 | Deep Residual Learning for Image Recognition                     | #cv #resnet #deep-learning            |   ⭐⭐⭐⭐   | [Deep Residual Learning for Image Recognition](notes/deep-residual-learning-for-image-recognition.md)                     |  
+| 9/21/2026 | Playing Atari with Deep Reinforcement Learning                   | #rl #dqn #deep-learning               |    ⭐⭐    | [Playing Atari with Deep Reinforcement Learning](notes/playing-atari-with-deep-reinforcement-learning.md)                   |  
+| 9/22/2026 | Generative Adversarial Networks                                  | #generative #gan #deep-learning       |  ⭐️⭐️⭐️  | [Generative Adversarial Networks](notes/generative-adversarial-networks.md)                                  |  
+| 9/23/2026 | SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS | #graph-ml #gcn #deep-learning         | ⭐️⭐️⭐️⭐️ | [SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS](notes/semi-supervised-classification-with-graph-convolutional-networks.md) |  
+| 9/24/2026 | Adam: A Method for Stochastic Optimization                       | #optimization #theory #deep-learning  |   ⭐️⭐️   | [Adam - A Method for Stochastic Optimization](notes/adam-a-method-for-stochastic-optimization.md)                      |  
+| 9/27/2026 | RT-1: Robotics Transformer for Real-World Control at Scale       | #robotics #transformer #embodied-ai   |   ⭐️⭐️   | [RT-1 Robotics Transformer for Real-World Control at Scale](notes/rt-1-robotics-transformer-for-real-world-control-at-scale.md)        |  
+| 9/30/2026 | Denoising Diffusion Probabilistic Models                         | #generative #diffusion #deep-learning |          | [Denoising Diffusion Probabilistic Models](notes/denoising-diffusion-probabilistic-models.md)                         |
 
 ---
 
@@ -38,7 +39,8 @@ Every 5th paper is a mixed recall quiz covering all earlier papers in the progre
 4. [Generative Adversarial Networks](notes/generative-adversarial-networks.md)  
 5. [SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS](notes/semi-supervised-classification-with-graph-convolutional-networks.md)  
 6. Adam: A Method for Stochastic Optimization  
-7. [RT-1 Robotics Transformer for Real-World Control at Scale](notes/rt-1-robotics-transformer-for-real-world-control-at-scale.md)
+7. [RT-1 Robotics Transformer for Real-World Control at Scale](notes/rt-1-robotics-transformer-for-real-world-control-at-scale.md)  
+8. [Denoising Diffusion Probabilistic Models](notes/denoising-diffusion-probabilistic-models.md)
 
 ---  
 ## Papers for Later
