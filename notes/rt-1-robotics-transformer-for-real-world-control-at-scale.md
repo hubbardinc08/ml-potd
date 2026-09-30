@@ -32,7 +32,9 @@ the Transformer architecture is good for multi-task learning, but it alone is no
 
 **Builds on:** [Attention Is All You Need](attention-is-all-you-need.md)
 
-**Rating:** ⭐️⭐️⭐️
+**Rating:** ⭐️⭐️
 
 ---  
 #### Notes for myself:
+
+None - only skimmed the paper
