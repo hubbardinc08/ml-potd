@@ -27,7 +27,7 @@ Every 5th paper is a mixed recall quiz covering all earlier papers in the progre
 | 9/23/2026 | SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS | #graph-ml #gcn #deep-learning         | ⭐️⭐️⭐️⭐️ | [SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS](notes/semi-supervised-classification-with-graph-convolutional-networks.md) |  
 | 9/24/2026 | Adam: A Method for Stochastic Optimization                       | #optimization #theory #deep-learning  |   ⭐️⭐️   | [Adam - A Method for Stochastic Optimization](notes/adam-a-method-for-stochastic-optimization.md)                      |  
 | 9/27/2026 | RT-1: Robotics Transformer for Real-World Control at Scale       | #robotics #transformer #embodied-ai   |   ⭐️⭐️   | [RT-1 Robotics Transformer for Real-World Control at Scale](notes/rt-1-robotics-transformer-for-real-world-control-at-scale.md)        |  
-| 9/30/2026 | Denoising Diffusion Probabilistic Models                         | #generative #diffusion #deep-learning |          | [Denoising Diffusion Probabilistic Models](notes/denoising-diffusion-probabilistic-models.md)                         |
+| 9/30/2026 | Denoising Diffusion Probabilistic Models                         | #generative #diffusion #deep-learning | ⭐️⭐️⭐️⭐️ | [Denoising Diffusion Probabilistic Models](notes/denoising-diffusion-probabilistic-models.md)                         |
 
 ---
 
