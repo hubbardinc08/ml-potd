@@ -32,4 +32,5 @@
 - We want to train a model that can reverse these steps, specifically the model weights transitioning each image stage to the previous, such that we can generate a high-quality image from static.
 
 
-DDPM.pdf
+
+[DDPM.pdf](../assets/ddpm.pdf)
