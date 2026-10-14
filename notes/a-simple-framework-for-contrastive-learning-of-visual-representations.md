@@ -4,6 +4,7 @@
 
 **Link:** https://arxiv.org/abs/2002.05709
 
+Note: did not take many notes on this paper since most of the paper is detailing the exact formulas and calculations they made - understood the process of how contrastive learning works  
 ### TL;DR: 
 
 ### Problem: 
