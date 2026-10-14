@@ -21,3 +21,5 @@
 
 ---  
 #### Notes for myself:
+
+**Contrastive learning:** learning general features without labeled data
