@@ -12,7 +12,8 @@
 	- Reasoning: doesn't change the external world, but helps the model organize information and update the model with information to help future reasoning and acting
 
 ### Problem:  
-- 
+- Reasoning-only LLM lacks external information --> prevents LLM from learning new stuff  
+- Acting-only LLM lacks ability to make key decisions and think abstractly
 
 ### Key equations/terms: 
 
@@ -23,12 +24,14 @@
 <img src="../assets/pasted-image-20261023021601.png" width="457" alt="Pasted image 20261023021601">  
 - Example of ReAct in comparison with reason-only and act-only
 
-### Results: 
+### Results:   
+- ReAct leads to superior performance with interpretable decision traces  
+-  "We plan to further extend this line of research and leverage the strong potential of the language model for tackling broader embodied tasks, via approaches like massive multitask training and coupling ReAct with equally strong reward models."
 
 ### Open questions: 
 
 **Builds on:**   
-**Rating:** ⭐️⭐️⭐️
+**Rating:** ⭐️⭐️⭐️⭐️
 
 ---  
 #### Notes for myself:
