@@ -33,7 +33,7 @@ Every 5th paper is a mixed recall quiz covering all earlier papers in the progre
 | 10/22/2026 | SWE-bench - Can Language Models Resolve Real-World Github Issues      | #benchmarks                                        |   None   | [SWE-bench - Can Language Models Resolve Real-World Github Issues](notes/swe-bench-can-language-models-resolve-real-world-github-issues.md)      |  
 | 10/23/2026 | Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena                | #nlp #llm #evaluation #benchmarks                  | ⭐️⭐️⭐️⭐️ | [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](notes/judging-llm-as-a-judge-with-mt-bench-and-chatbot-arena.md)                |  
 | 10/23/2026 | LLM Evaluators Recognize and Favor Their Own Generations              | #nlp #llm #evaluation #bias                        | ⭐️⭐️⭐️⭐️ | [LLM Evaluators Recognize and Favor Their Own Generations](notes/llm-evaluators-recognize-and-favor-their-own-generations.md)              |  
-|            |                                                                       |                                                    |          |                                                                           |
+| 10/23/2026 | ReAct - Synergizing Reasoning and Acting in Language Models           | #nlp #llm #agents #reasoning #prompting            |          | [ReAct - Synergizing Reasoning and Acting in Language Models](notes/react-synergizing-reasoning-and-acting-in-language-models.md)           |
 
 ---
 
