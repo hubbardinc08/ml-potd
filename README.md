@@ -29,7 +29,8 @@ Every 5th paper is a mixed recall quiz covering all earlier papers in the progre
 | 9/27/2026  | RT-1: Robotics Transformer for Real-World Control at Scale            | #robotics #transformer #embodied-ai                |   ⭐️⭐️   | [RT-1 Robotics Transformer for Real-World Control at Scale](notes/rt-1-robotics-transformer-for-real-world-control-at-scale.md)             |  
 | 9/30/2026  | Denoising Diffusion Probabilistic Models                              | #generative #diffusion #deep-learning              | ⭐️⭐️⭐️⭐️ | [Denoising Diffusion Probabilistic Models](notes/denoising-diffusion-probabilistic-models.md)                              |  
 | 10/11/2026 | A Simple Framework for Contrastive Learning of Visual Representations | #self-supervised #representation-learning #cv      |  ⭐️⭐️⭐️  | [A Simple Framework for Contrastive Learning of Visual Representations](notes/a-simple-framework-for-contrastive-learning-of-visual-representations.md) |  
-| 10/13/2026 | Learning Transferable Visual Models From Natural Language Supervision | #multimodal #vision-language #contrastive #cv #nlp |          | [Learning Transferable Visual Models From Natural Language Supervision](notes/learning-transferable-visual-models-from-natural-language-supervision.md) |
+| 10/13/2026 | Learning Transferable Visual Models From Natural Language Supervision | #multimodal #vision-language #contrastive #cv #nlp |          | [Learning Transferable Visual Models From Natural Language Supervision](notes/learning-transferable-visual-models-from-natural-language-supervision.md) |  
+| 10/22/2026 | SWE-bench - Can Language Models Resolve Real-World Github Issues      | #benchmarks                                        |          | [SWE-bench - Can Language Models Resolve Real-World Github Issues](notes/swe-bench-can-language-models-resolve-real-world-github-issues.md)      |
 
 ---
 
@@ -45,7 +46,8 @@ Every 5th paper is a mixed recall quiz covering all earlier papers in the progre
 8. [Denoising Diffusion Probabilistic Models](notes/denoising-diffusion-probabilistic-models.md)  
 9. [A Simple Framework for Contrastive Learning of Visual Representations](notes/a-simple-framework-for-contrastive-learning-of-visual-representations.md)  
 10. [Learning Transferable Visual Models From Natural Language Supervision](notes/learning-transferable-visual-models-from-natural-language-supervision.md)  
-11. 
+11. [SWE-bench - Can Language Models Resolve Real-World Github Issues](notes/swe-bench-can-language-models-resolve-real-world-github-issues.md)  
+12. 
 
 ---  
 ## Papers for Later
