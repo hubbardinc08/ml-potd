@@ -4,7 +4,10 @@
 
 **Link:** https://arxiv.org/abs/2309.08600
 
-### TL;DR: 
+### TL;DR:   
+- When there are more features than neurons in a neural network, the network must use superposition to represent all of the features, thus leading to polysemanticity  
+	- This makes neural networks difficult to interpret in a human-parsable manner  
+- The paper introduces a method (sparse autoencoders) to resolve superposition using a scalable and unsupervised method
 
 ### Problem: 
 
