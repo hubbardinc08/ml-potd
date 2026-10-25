@@ -22,3 +22,7 @@
 
 ---  
 #### Notes for myself:
+
+**Polysemanticity:** the phenomenon where neurons activate in multiple, semantically distinct contexts, which prevents us from identifying explanations for what neural networks (specifically the neurons) are actually doing
+
+**Superposition:** when there are more features than neurons in a neural network, so one neuron may represent multiple features
