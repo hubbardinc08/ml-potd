@@ -36,7 +36,9 @@ $$A = \begin{bmatrix} 1  \\  0  \end{bmatrix}, B = \begin{bmatrix} 0  \\  1  \en
 ### Results: 
 
 ### Open questions:   
-- Look into the autointerpretability procedure introduced in Bills et al. (2023) (https://arxiv.org/html/2309.08600v3#bib.bib2)
+- Look into the autointerpretability procedure introduced in Bills et al. (2023) (https://arxiv.org/html/2309.08600v3#bib.bib2)  
+- What is KL divergence?  
+- 
 
 **Builds on:** [Attention Is All You Need](attention-is-all-you-need.md)  
 **Rating:** ⭐️⭐️⭐️
