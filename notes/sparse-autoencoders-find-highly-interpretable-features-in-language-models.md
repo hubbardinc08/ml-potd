@@ -13,9 +13,14 @@
 
 ### Key equations/terms: 
 
-**Polysemanticity:** the phenomenon where neurons activate in multiple, semantically distinct contexts, which prevents us from identifying explanations for what neural networks (specifically the neurons) are actually doing
+<span style="color:rgb(255, 0, 0)"><b>Polysemanticity:</b></span> the phenomenon where neurons activate in multiple, semantically distinct contexts, which prevents us from identifying explanations for what neural networks (specifically the neurons) are actually doing
 
-**Superposition:** when there are more features than neurons in a neural network, so one neuron may represent multiple features
+<span style="color:rgb(255, 0, 0)"><b>Superposition:</b></span> when there are more features than neurons in a neural network, so one neuron may represent multiple features
+
+<span style="color:rgb(255, 0, 0)"><b>Autoencoder:</b></span> An unsupervised neural network that learns to compress input data into a lower dimensional representation, then reconstruct the original input as closely as possible  
+- <span style="color:rgb(255, 0, 0)"><b>Undercomplete Autoencoder:</b></span> specific autoencoder where the hidden layer has fewer neurons/dimensions than the input layer
+
+
 
 **What makes superposition possible?**  
 - A key example: say that we want to represent A, B, and C using vectors in $\mathbb{R}^2$. We could say  
