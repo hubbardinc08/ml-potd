@@ -11,7 +11,12 @@
 
 ### Problem: 
 
-### Key equations/terms: 
+### Key equations/terms:   
+**What makes superposition possible?**  
+- A key example: say that we want to represent A, B, and C using vectors in $\mathbb{R}^2$. We could say  
+$$A = \begin{bmatrix} 1  \\  0  \end{bmatrix}, B = \begin{bmatrix} 0  \\  1  \end{bmatrix}, C = \begin{bmatrix} 1  \\  1  \end{bmatrix}$$  
+- Then 
+
 
 ### Design choices + why: 
 
