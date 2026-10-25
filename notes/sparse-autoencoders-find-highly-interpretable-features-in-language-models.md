@@ -33,9 +33,14 @@ $$A = \begin{bmatrix} 1  \\  0  \end{bmatrix}, B = \begin{bmatrix} 0  \\  1  \en
 1. Use <span style="color:rgb(255, 0, 0)">automated interpretability</span> to generate a human-readable explanation  
 2. Remove/modify the feature's activation, then observe how the model's output changes (relates to causal intervention)
 
+<span style="color:rgb(255, 0, 0)"><b>Kullback-Leibler (KL) Divergence:</b></span> measures how much information is lost when using an approximating probability distribution instead of a true probability distribution  
+Loading latex...  
 ### Design choices + why: 
 
-### Results: 
+### Results:   
+- SAE interpretability decreases with the number of layers in the original neural network  
+<img src="../assets/pasted-image-20261025164724.png" width="484" alt="Pasted image 20261025164724">
+
 
 ### Open questions:   
 - Look into the autointerpretability procedure introduced in Bills et al. (2023) (https://arxiv.org/html/2309.08600v3#bib.bib2)  
