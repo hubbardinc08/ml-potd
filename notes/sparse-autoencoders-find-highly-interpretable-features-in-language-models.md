@@ -15,7 +15,10 @@
 **What makes superposition possible?**  
 - A key example: say that we want to represent A, B, and C using vectors in $\mathbb{R}^2$. We could say  
 $$A = \begin{bmatrix} 1  \\  0  \end{bmatrix}, B = \begin{bmatrix} 0  \\  1  \end{bmatrix}, C = \begin{bmatrix} 1  \\  1  \end{bmatrix}$$  
-- Then 
+- Then activating both A and B neurons would be the same as just activating neuron C, which would lead to interference if neurons A and B have no correlation with neuron C  
+- Therefore it is possible to represent more features with less neurons using sparse encoding
+
+
 
 
 ### Design choices + why: 
