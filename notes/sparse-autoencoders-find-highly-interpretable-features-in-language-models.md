@@ -11,7 +11,12 @@
 
 ### Problem: 
 
-### Key equations/terms:   
+### Key equations/terms: 
+
+**Polysemanticity:** the phenomenon where neurons activate in multiple, semantically distinct contexts, which prevents us from identifying explanations for what neural networks (specifically the neurons) are actually doing
+
+**Superposition:** when there are more features than neurons in a neural network, so one neuron may represent multiple features
+
 **What makes superposition possible?**  
 - A key example: say that we want to represent A, B, and C using vectors in $\mathbb{R}^2$. We could say  
 $$A = \begin{bmatrix} 1  \\  0  \end{bmatrix}, B = \begin{bmatrix} 0  \\  1  \end{bmatrix}, C = \begin{bmatrix} 1  \\  1  \end{bmatrix}$$  
@@ -33,7 +38,3 @@ $$A = \begin{bmatrix} 1  \\  0  \end{bmatrix}, B = \begin{bmatrix} 0  \\  1  \en
 
 ---  
 #### Notes for myself:
-
-**Polysemanticity:** the phenomenon where neurons activate in multiple, semantically distinct contexts, which prevents us from identifying explanations for what neural networks (specifically the neurons) are actually doing
-
-**Superposition:** when there are more features than neurons in a neural network, so one neuron may represent multiple features
