@@ -5,6 +5,7 @@
 **Link:** https://arxiv.org/abs/2209.10652
 
 ### TL;DR:   
+- We hypothesize that neural networks we observe are simulating larger, highly sparse networks without interference  
 - 
 
 ### Key equations/terms: 
