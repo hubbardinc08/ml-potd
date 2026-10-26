@@ -4,9 +4,8 @@
 
 **Link:** https://arxiv.org/abs/2209.10652
 
-### TL;DR: 
-
-### Problem: 
+### TL;DR:   
+- 
 
 ### Key equations/terms: 
 
