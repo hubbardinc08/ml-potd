@@ -39,12 +39,14 @@ Loading latex...
 
 ### Results:   
 - SAE interpretability decreases with the number of layers in the original neural network  
-<img src="../assets/pasted-image-20261025164724.png" width="484" alt="Pasted image 20261025164724">
+<img src="../assets/pasted-image-20261025164724.png" width="484" alt="Pasted image 20261025164724">  
+### Future Work: 
 
 
 ### Open questions:   
-- Look into the autointerpretability procedure introduced in Bills et al. (2023) (https://arxiv.org/html/2309.08600v3#bib.bib2)  
-- What is KL divergence?
+- Look into the autointerpretability procedure introduced in Bills et al. (2023) (https://arxiv.org/html/2309.08600v3#bib.bib2)
+
+
 
 
 **Builds on:** [Attention Is All You Need](attention-is-all-you-need.md)  
